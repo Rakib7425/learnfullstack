@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.styledDiv {
+    background-color: greenyellow;
+}
+
+#someid {
+    background-color: red;
+}
